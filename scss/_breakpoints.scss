@@ -32,6 +32,13 @@
         padding: 10px;
         margin: 10px;
     }
+    .grid_card{
+        display: grid;
+        grid-template-columns:  repeat(2, 1fr);
+        grid-template-rows:  1fr;
+        grid-column-gap: 20px;
+        margin: 20px;
+    }
 }
 
 @media (max-width:576px) {
@@ -44,4 +51,11 @@
     .figure_size{
         max-width: 75%;
     }
+    .grid_card{
+        display: grid;
+        grid-template-columns:  1fr;
+        grid-template-rows:  1fr;
+        grid-row-gap: 20px;
+    }
+
 }

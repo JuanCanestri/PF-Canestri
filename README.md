@@ -1,5 +1,4 @@
-# PreEntrega3-Canestri
-PreEntrega número 3 Coder House
+Entrega Final + Canestri
 
 Web Phrog Studio Architectural Visualization
 
@@ -7,15 +6,16 @@ Nav
 
 -Responsive Nav en Bootstrap
 -Links de la Nav animados con hover, cambian a color verde
--Logo animado con scale y transition
 
 Index
 
 -Elementos organizados con Flexbox
 -Carousel de 3 imagenes con FigCaption en Bootstrap
--Footer en CSS con Flexbox
+-Footer con Flexbox
 
 3D modeling
+
+Galeria de imagenes con Grid y responsive
 
 3D rendering
 
@@ -23,7 +23,17 @@ Index
 
 About Us
 
--Cards hechas con Bootstrap
--Organizadas con Flexbox
+Organizado con grid y FlexBox
 
 Contact
+
+Organizado con grid y FlexBox
+
+Todo el proyecto realizado con SASS y compilado con npm.
+SEO en todas las paginas.
+
+Entrega en Github, Pages y Hosting gratuito, links a continuacion:
+-
+-
+-
+
