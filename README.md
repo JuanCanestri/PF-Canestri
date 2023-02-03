@@ -33,7 +33,7 @@ Todo el proyecto realizado con SASS y compilado con npm.
 SEO en todas las paginas.
 
 Entrega en Github, Pages y Hosting gratuito, links a continuacion:
--
--
--
+- Github: https://github.com/JuanCanestri/PF-Canestri.git
+- Pages: https://juancanestri.github.io/PF-Canestri/
+- Vercel: https://phrogstudio.vercel.app/
 
